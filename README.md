@@ -10,7 +10,7 @@ venv/bin/pip install -r requirements.txt
 ~~~
 
 ~~~shell
-python3 gsmencode.py "Bloxtel"
+python3 gsmencode.py "ACME"
 ~~~
 
 The encoding for EF PNN is then `43` `<xy length>` `8<x sparebits>` `<encoding>`
